@@ -19,9 +19,7 @@
 
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=souro303&theme=dark" alt="souro303" />
-</div>
-<br>
-<div align="center">
+
 <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souro303&layout=compact&theme=dark" alt=souro303 />
 </div>
 <br>
