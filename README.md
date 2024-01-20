@@ -30,7 +30,7 @@
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souro303&layout=compact&theme=dark" alt=souro303 />
 </div>
 <br>
-<h4 align="center">Top Language Contributions</h4>
+<h4 align="center">Last Year Contributions</h4>
 <p align="center">  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="180em" />
 </p>
