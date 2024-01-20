@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>  
 <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souro303&layout=compact&theme=dark" alt=souro303 />
-
+<br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="150em" />
 </p>
