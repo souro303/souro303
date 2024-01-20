@@ -1,5 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Souro,</h1>
-<h3 align="center">passionate about coding and creating meaningful projects.</h3>
+<h3 align="center">passionate about <b>coding</b> and creating meaningful <b>projects</b>.</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🌱 Currently on a learning journey **100 days of Python course, Backend web development, Django**<br>
 - 💬 Ask me about **Python, Django**
 
@@ -18,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="170em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="160em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="150em" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
