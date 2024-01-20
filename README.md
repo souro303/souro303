@@ -1,9 +1,9 @@
  <h1 align="center">Hello! 👋<br>This is Souro's GitHub profile</h1>
 
-  <p>I'm a passionate backend software developer with a focus on creating robust and efficient solutions for complex challenges.
-    I bring a keen understanding of backend systems, designing and implementing solutions that seamlessly support applications
+  <p>Passionate backend software developer with a focus on creating robust and efficient solutions for complex challenges.
+    Bring a keen understanding of backend systems, designing and implementing solutions that seamlessly support applications
     and contribute to a smooth user experience. Proficient in a variety of programming languages and experienced in the
-    intricacies of backend development, I excel in architecting scalable and maintainable solutions.</p>
+    intricacies of backend development, excel in architecting scalable and maintainable solutions.</p>
 
   <h2>Skills</h2>
   <ul>
