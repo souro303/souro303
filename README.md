@@ -13,7 +13,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=souro303&theme=dark" alt="souro303" />
+<p>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=souro303&theme=dark" alt="souro303" />
+&nbsp; &nbsp;
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="180em" />
 </p>
 
