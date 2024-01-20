@@ -25,7 +25,7 @@
 <br>
 <h4 align="center">Top Language Contributions</h4>
 <p align="center">  
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="150em" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
