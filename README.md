@@ -15,7 +15,6 @@
 <h3 align="left">Stars</h3>
 <p>  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="180em" />
-&nbsp; &nbsp;
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="180em" />
 </p>
 
