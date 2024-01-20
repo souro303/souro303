@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 ,</h1>
+<h1 align="center">Hello! 👋</h1>
 <h2 align="center">I'm <b>Souro</b>.</h2>
 
 Passionate backend software developer with a focus on creating robust and efficient solutions for complex challenges. I bring a keen understanding of backend systems, designing and implementing solutions that seamlessly support applications and contribute to a smooth user experience. Proficient in a variety of programming languages and experienced in the intricacies of backend development, I excel in architecting scalable and maintainable solutions.
