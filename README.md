@@ -1,6 +1,6 @@
  <h1 align="center">Hello! 👋<br>This is Souro's GitHub profile</h1>
 
-  <p>I'm passionate backend software developer with a focus on creating robust and efficient solutions for complex challenges.
+  <p>I'm a passionate backend software developer with a focus on creating robust and efficient solutions for complex challenges.
     I bring a keen understanding of backend systems, designing and implementing solutions that seamlessly support applications
     and contribute to a smooth user experience. Proficient in a variety of programming languages and experienced in the
     intricacies of backend development, I excel in architecting scalable and maintainable solutions.</p>
@@ -17,7 +17,7 @@
 
   <p>Driven by a commitment to excellence, I actively stay abreast of the latest trends and methodologies in backend
     development. Eager to collaborate with fellow professionals, I am enthusiastic about bringing innovative ideas to
-    fruition. Let's connect and explore how we can create powerful and efficient backend solutions together.</p>
+    fruition. Let's connect and explore, how we can create powerful and efficient backend solutions together.</p>
 
   <p>📫 Reach out to me for collaborations or discussions.</p>
 
