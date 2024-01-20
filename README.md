@@ -24,7 +24,7 @@
 </div>
 <br>
 <h4 align="center">Top Language Contributions</h4>
-<p>  
+<p align="center">  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souro303&theme=algolia" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souro303&theme=algolia" height="150em" />
 </p>
