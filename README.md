@@ -19,7 +19,7 @@
     development. Eager to collaborate with fellow professionals, I am enthusiastic about bringing innovative ideas to
     fruition. Let's connect and explore, how we can create powerful and efficient backend solutions together.</p>
 
-  <p>📫 <b>Reach out to me</b> for collaborations or discussions.<a href= "https://www.linkedin.com/in/souro303/"><b>@LinkedIn</b></a></p>
+  <p>📫 <b>Reach out to me</b> for collaborations or discussions. <a href= "https://www.linkedin.com/in/souro303/"><b>@LinkedIn</b></a></p>
 
 <h3 align="center">Statistics</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
