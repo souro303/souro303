@@ -7,10 +7,10 @@
 
   <h2>Skills</h2>
   <ul>
-    <li><strong>Backend Development:</strong> Django, Flask</li>
+    <li><strong>Backend Development:</strong> Django</li>
     <li><strong>Database Design and Management:</strong> MySQL</li>
     <li><strong>API Development:</strong> RESTful API, Django REST framework</li>
-    <li><strong>Frontend Technologies:</strong> HTML, CSS, JavaScript, Bootstrap</li>
+    <li><strong>Frontend Technologies:</strong> HTML, CSS, Bootstrap</li>
     <li><strong>Version Control:</strong> Git, GitHub</li>
     <li><strong>Other:</strong> Object-oriented programming, MVC architecture</li>
   </ul>
