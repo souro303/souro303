@@ -12,7 +12,7 @@
     <li><strong>API Development:</strong> RESTful API, Django REST framework</li>
     <li><strong>Frontend Technologies:</strong> HTML, CSS, Bootstrap</li>
     <li><strong>Version Control:</strong> Git, GitHub</li>
-    <li><strong>Other:</strong> Object-oriented programming, MVC architecture</li>
+    <li><strong>Other:</strong> Object-oriented programming, MVT architecture</li>
   </ul>
 
   <p>Driven by a commitment to excellence, I actively stay abreast of the latest trends and methodologies in backend
