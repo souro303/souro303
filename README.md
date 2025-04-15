@@ -1,6 +1,6 @@
  <h1 align="center">Hello! 👋<br>This is Souro's GitHub profile</h1>
  <h2 align="center">
-  🌐 Check out my personal portfolio: <a href="https://souro.me" target="_blank">souro.me</a>
+  🌐 Check out: <a href="https://souro.me" target="_blank">souro.me</a>
 </h2>
 
   <p>Passionate backend software developer with a focus on creating efficient solutions for complex challenges.
