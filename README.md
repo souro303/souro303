@@ -3,10 +3,7 @@
   🌐 Check out: <a href="https://souro.me" target="_blank">souro.me</a>
 </h2>
 
-  <p>Passionate backend software developer with a focus on creating efficient solutions for complex challenges.
-    Bring a keen understanding of backend systems, designing and implementing solutions that seamlessly support applications
-    and contribute to a smooth user experience. Proficient in a variety of programming languages and experienced in the
-    intricacies of backend development, excel in architecting scalable and maintainable solutions.</p>
+  <p>Passionate software developer skilled in building efficient, scalable, and maintainable systems. Experienced in designing robust backend solutions that power seamless user experiences.</p>
 
   <h2>Skills</h2>
   <ul>
@@ -20,7 +17,7 @@
 
   <p>Driven by a commitment to excellence, I actively stay abreast of the latest trends and methodologies in backend
     development. Eager to collaborate with fellow professionals, I am enthusiastic about bringing innovative ideas to
-    fruition. Let's connect and explore, how we can create powerful and efficient backend solutions together.</p>
+    fruition.</p>
 
   <p>📫 <b>Reach out to me</b> for collaborations or discussions. <a href= "https://www.linkedin.com/in/souro303/"><b>@LinkedIn</b></a></p>
 
@@ -53,7 +50,7 @@
     <th align="left">Logo</th>
     <th align="left">Name</th>
     <th align="left">Type</th>
-    <th align="left">Live Users</th>
+    <th align="left">Users</th>
     <th align="left">GitHub</th>
     <th align="left">View</th>
    
