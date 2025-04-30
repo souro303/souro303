@@ -5,15 +5,19 @@
 
   <p>Passionate software developer skilled in building efficient, scalable, and maintainable systems. Experienced in designing robust backend solutions that power seamless user experiences.</p>
 
-  <h2>Skills</h2>
-  <ul>
-    <li><strong>Backend Development:</strong> Django</li>
-    <li><strong>Database Design and Management:</strong> MySQL</li>
-    <li><strong>API Development:</strong> RESTful API, Django REST framework</li>
-    <li><strong>Frontend Technologies:</strong> HTML, CSS, Bootstrap</li>
-    <li><strong>Version Control:</strong> Git, GitHub</li>
-    <li><strong>Other:</strong> Object-oriented programming, MVT architecture</li>
-  </ul>
+  ## 💻 Skills Overview
+
+- **🚀 Currently Learning:**  
+  Flutter (Cross-platform Mobile App Development)
+
+- **✅ Known:**  
+  - Django (Python) for backend development  
+  - RESTful API development with Django REST Framework  
+  - HTML, CSS, JavaScript for frontend  
+  - MySQL for database management  
+  - Git & GitHub for version control  
+  - Object-Oriented Programming (OOP), MVT Architecture
+
 
   <p>Driven by a commitment to excellence, I actively stay abreast of the latest trends and methodologies in backend
     development. Eager to collaborate with fellow professionals, I am enthusiastic about bringing innovative ideas to
