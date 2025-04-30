@@ -7,10 +7,10 @@
 
   ## 💻 Skills Overview
 
-- **🚀 Currently Learning:**  
+ **🚀 Currently Learning:**  
   Flutter (Cross-platform Mobile App Development)
 
-- **✅ Known:**  
+  **✅ Known:**  
   - Django (Python) for backend development  
   - RESTful API development with Django REST Framework  
   - HTML, CSS, JavaScript for frontend  
