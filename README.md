@@ -66,7 +66,7 @@
     <td><strong>Facebook Reels Blocker</strong></td>
     <td>Chrome Extension</td>
     <td>📊 1,200+</td>
-    <td><a href="https://github.com/your-username/facebook-reels-blocker" target="_blank">Repo</a></td>
+    <td><a href="https://github.com/souro303/Facebook_reels_blocker-Extension.git" target="_blank">Repo</a></td>
     <td><a href="https://chromewebstore.google.com/detail/facebook-reels-blocker/ilebchhcbmejmeakfnmmmhjneobllhpn?authuser=0&hl=en" target="_blank">View</a></td>
   </tr>
 
