@@ -41,3 +41,35 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+
+
+<h3 align="center">Projects List</h3>
+<p align="center">🎉━━━━━━━━━━━━━━━━━🎉</p>
+
+<div align="center">
+
+<table width="80%">
+  <tr>
+    <th align="left">Logo</th>
+    <th align="left">Name</th>
+    <th align="left">Type</th>
+    <th align="left">Live Users</th>
+    <th align="left">GitHub</th>
+    <th align="left">View</th>
+   
+  </tr>
+
+ 
+  <tr>
+    <td><img src="https://www.google.com/s2/favicons?sz=64&domain_url=chromewebstore.google.com" width="40" /></td>
+    <td><strong>Facebook Reels Blocker</strong></td>
+    <td>Chrome Extension</td>
+    <td>📊 1,200+</td>
+    <td><a href="https://github.com/your-username/facebook-reels-blocker" target="_blank">Repo</a></td>
+    <td><a href="https://chromewebstore.google.com/detail/facebook-reels-blocker/ilebchhcbmejmeakfnmmmhjneobllhpn?authuser=0&hl=en" target="_blank">View</a></td>
+  </tr>
+
+
+</table>
+
+</div>
