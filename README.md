@@ -51,7 +51,8 @@
 
 <table width="80%">
   <tr>
-    <th align="left">Logo</th>
+   <th align="left">No.</th> 
+   <th align="left">Logo</th>
     <th align="left">Name</th>
     <th align="left">Type</th>
     <th align="left">Users</th>
@@ -62,13 +63,26 @@
 
  
   <tr>
-    <td><img src="https://www.google.com/s2/favicons?sz=64&domain_url=chromewebstore.google.com" width="40" /></td>
+    <td>1</td>
+    <td><img src="https://lh3.googleusercontent.com/kM9j8XyHSKw1AX1U0YIVOSEQXWrpyPNoZGhk96Eq9OIPKSX_fqnCY34tPSfGfGucdY7w61s7YhFMai-NJXRcfi1gVEI=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>Facebook Reels Blocker</strong></td>
     <td>Chrome Extension</td>
     <td>📊 1,200+</td>
-    <td><a href="https://github.com/souro303/Facebook_reels_blocker-Extension.git" target="_blank">Repo</a></td>
+    <td><a href="https://github.com/souro303/Facebook_reels_blocker-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/facebook-reels-blocker/ilebchhcbmejmeakfnmmmhjneobllhpn?authuser=0&hl=en" target="_blank">View</a></td>
   </tr>
+
+  <tr>
+    <td>2</td>
+    <td><img src="https://lh3.googleusercontent.com/lX5udpY-uNqpWRntaKwQvve6G7o6800edvP4C5tSXAYTez6MTWWVY-pR2wWoAhOnnC7yhDH308JnbTvkI3CHs-ku=s120" width="32" height="32" alt="Icon" /></td>
+    <td><strong>Calculator Extension</strong></td>
+    <td>Chrome Extension</td>
+    <td>📊 New+</td>
+    <td><a href="https://github.com/souro303/Calculator-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://chromewebstore.google.com/detail/calculator-extension/pobhillfabemnednokgkjlfhjkmeibfp" target="_blank">View</a></td>
+  </tr>
+
+  
 
 
 </table>
