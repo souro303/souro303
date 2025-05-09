@@ -82,7 +82,7 @@
     <td><a href="https://chromewebstore.google.com/detail/calculator-extension/pobhillfabemnednokgkjlfhjkmeibfp" target="_blank">View</a></td>
   </tr>
 
-<tr>
+  <tr>
     <td>3</td>
     <td><img src="https://lh3.googleusercontent.com/-xblLU9GRqU2VG6TIPif3z9qQKHCE31knN-eZPiQZ7Drgr5x6HFoTGNZW3MWiZ8n6QF2phQd1CWXJ4M5ciyQ0Sou=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>DeepSeek Sidebar</strong></td>
@@ -91,6 +91,17 @@
     <td><a href="https://github.com/souro303/DeepSeek_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/deepseek-sidebar/mofamlfnlcpkopalcobmoonolagdpgdc" target="_blank">View</a></td>
   </tr>
+
+  <tr>
+    <td>4</td>
+    <td><img src="https://lh3.googleusercontent.com/agbfYyB1L-4vHgUa_5qxPfS_1IoloCJmi02tQiWI0ik9qJQifsQKLaHh7Wa5mBOV3ZbHFEGuulaStdz4zaJiSIwWnw=s120" width="32" height="32" alt="Icon" /></td>
+    <td><strong>Notion Sidebar</strong></td>
+    <td>Chrome Extension</td>
+    <td>📊 New+</td>
+    <td><a href="https://github.com/souro303/Notion_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://chromewebstore.google.com/detail/notion-sidebar/labgncclhppjllclnfiaheagfdlbbebb" target="_blank">View</a></td>
+  </tr>
+  
 
   
 
