@@ -68,7 +68,7 @@
     <td><strong>Facebook Reels Blocker</strong></td>
     <td>Chrome Extension</td>
     <td>📊 1,200+</td>
-    <td><a href="https://github.com/souro303/Facebook_reels_blocker-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://github.com/souro303/1001_Facebook_reels_blocker-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/facebook-reels-blocker/ilebchhcbmejmeakfnmmmhjneobllhpn?authuser=0&hl=en" target="_blank">View</a></td>
   </tr>
 
@@ -78,7 +78,7 @@
     <td><strong>Calculator Extension</strong></td>
     <td>Chrome Extension</td>
     <td>📊 New+</td>
-    <td><a href="https://github.com/souro303/Calculator-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://github.com/souro303/1002_Calculator-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/calculator-extension/pobhillfabemnednokgkjlfhjkmeibfp" target="_blank">View</a></td>
   </tr>
 
@@ -88,7 +88,7 @@
     <td><strong>DeepSeek Sidebar</strong></td>
     <td>Chrome Extension</td>
     <td>📊 New+</td>
-    <td><a href="https://github.com/souro303/DeepSeek_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://github.com/souro303/1003_DeepSeek_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/deepseek-sidebar/mofamlfnlcpkopalcobmoonolagdpgdc" target="_blank">View</a></td>
   </tr>
 
@@ -98,7 +98,7 @@
     <td><strong>Notion Sidebar</strong></td>
     <td>Chrome Extension</td>
     <td>📊 New+</td>
-    <td><a href="https://github.com/souro303/Notion_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://github.com/souro303/1004_Notion_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/notion-sidebar/labgncclhppjllclnfiaheagfdlbbebb" target="_blank">View</a></td>
   </tr>
   
