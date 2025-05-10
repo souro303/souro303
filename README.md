@@ -63,7 +63,7 @@
 
  
   <tr>
-    <td>1</td>
+    <td>1001</td>
     <td><img src="https://lh3.googleusercontent.com/kM9j8XyHSKw1AX1U0YIVOSEQXWrpyPNoZGhk96Eq9OIPKSX_fqnCY34tPSfGfGucdY7w61s7YhFMai-NJXRcfi1gVEI=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>Facebook Reels Blocker</strong></td>
     <td>Chrome Extension</td>
@@ -73,7 +73,7 @@
   </tr>
 
   <tr>
-    <td>2</td>
+    <td>1002</td>
     <td><img src="https://lh3.googleusercontent.com/lX5udpY-uNqpWRntaKwQvve6G7o6800edvP4C5tSXAYTez6MTWWVY-pR2wWoAhOnnC7yhDH308JnbTvkI3CHs-ku=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>Calculator Extension</strong></td>
     <td>Chrome Extension</td>
@@ -83,7 +83,7 @@
   </tr>
 
   <tr>
-    <td>3</td>
+    <td>1003</td>
     <td><img src="https://lh3.googleusercontent.com/-xblLU9GRqU2VG6TIPif3z9qQKHCE31knN-eZPiQZ7Drgr5x6HFoTGNZW3MWiZ8n6QF2phQd1CWXJ4M5ciyQ0Sou=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>DeepSeek Sidebar</strong></td>
     <td>Chrome Extension</td>
@@ -93,7 +93,7 @@
   </tr>
 
   <tr>
-    <td>4</td>
+    <td>1004</td>
     <td><img src="https://lh3.googleusercontent.com/agbfYyB1L-4vHgUa_5qxPfS_1IoloCJmi02tQiWI0ik9qJQifsQKLaHh7Wa5mBOV3ZbHFEGuulaStdz4zaJiSIwWnw=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>Notion Sidebar</strong></td>
     <td>Chrome Extension</td>
