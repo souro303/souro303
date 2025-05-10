@@ -51,7 +51,7 @@
 
 <table width="80%">
   <tr>
-   <th align="left">No.</th> 
+   <th align="left">ID</th> 
    <th align="left">Logo</th>
     <th align="left">Name</th>
     <th align="left">Type</th>
