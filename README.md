@@ -67,7 +67,7 @@
     <td><img src="https://lh3.googleusercontent.com/kM9j8XyHSKw1AX1U0YIVOSEQXWrpyPNoZGhk96Eq9OIPKSX_fqnCY34tPSfGfGucdY7w61s7YhFMai-NJXRcfi1gVEI=s120" width="32" height="32" alt="Icon" /></td>
     <td><strong>Facebook Reels Blocker</strong></td>
     <td>Chrome Extension</td>
-    <td>📊 1,200+</td>
+    <td>📊 1,500+</td>
     <td><a href="https://github.com/souro303/1001_Facebook_reels_blocker-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/facebook-reels-blocker/ilebchhcbmejmeakfnmmmhjneobllhpn?authuser=0&hl=en" target="_blank">View</a></td>
   </tr>
