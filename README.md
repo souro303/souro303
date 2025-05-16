@@ -101,6 +101,16 @@
     <td><a href="https://github.com/souro303/1004_Notion_sidebar-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/notion-sidebar/labgncclhppjllclnfiaheagfdlbbebb" target="_blank">View</a></td>
   </tr>
+
+  <tr>
+    <td>1007</td>
+    <td><img src="https://lh3.googleusercontent.com/8GoIHCFix8NtRf344LsiownjHtscj9a3uBA8w-l_fEnJsnVbF1EQYdFc9Myp9_fl0cIh2SB-lq9iMFl0s7pi5Fctdlo=s120" width="32" height="32" alt="Icon" /></td>
+    <td><strong>YouTube Shorts Blocker</strong></td>
+    <td>Chrome Extension</td>
+    <td>📊 New+</td>
+    <td><a href="https://github.com/souro303/1007_Youtube_shorts_blocker-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://chromewebstore.google.com/detail/youtube-shorts-blocker/ncgikfbbjplcfmdeeaopkjcfnfjliedg" target="_blank">View</a></td>
+  </tr>
   
 
   
