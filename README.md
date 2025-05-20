@@ -121,6 +121,16 @@
     <td><a href="https://github.com/souro303/1007_Youtube_shorts_blocker-Extension.git" target="_blank">Repo</a> (Private)</td>
     <td><a href="https://chromewebstore.google.com/detail/youtube-shorts-blocker/ncgikfbbjplcfmdeeaopkjcfnfjliedg" target="_blank">View</a></td>
   </tr>
+
+  <tr>
+    <td>1008</td>
+    <td><img src="https://lh3.googleusercontent.com/QwQ38k9LX68rudIu3FCh5iqwrU-4tOXfI9Rjt6o6-qhGOxqRkZ148tvM_tS8pPFQkG3RjPUHlggAUBCR53QIjhjvRA=s120" width="32" height="32" alt="Icon" /></td>
+    <td><strong>Volume Booster - Control your sound</strong></td>
+    <td>Chrome Extension</td>
+    <td>📊 New+</td>
+    <td><a href="https://github.com/souro303/1008_Volume_booster-control_your_sound-Extension.git" target="_blank">Repo</a> (Private)</td>
+    <td><a href="https://chromewebstore.google.com/detail/volume-booster-control-yo/eknnhlnjcednkhbfjnnkedcofalghjhk" target="_blank">View</a></td>
+  </tr>
   
 
   
